@@ -20,4 +20,4 @@ text4 =r'C:\nyoto'#Raw String
 print(text4)
 
 
-print(5*'wk')
+print(5*'wa')
